@@ -1,0 +1,267 @@
+1529438835489	geckodriver	INFO	geckodriver 0.20.1
+1529438835497	geckodriver	INFO	Listening on 127.0.0.1:53629
+1529438838534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\GONZAL~1.LOM\\AppData\\Local\\Temp\\rust_mozprofile.EGYTO6LQ1VCF"
+Unable to read VR Path Registry from C:\Users\gonzalo.lomabardi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gonzalo.lomabardi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gonzalo.lomabardi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gonzalo.lomabardi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\gonzalo.lomabardi\AppData\Local\openvr\openvrpaths.vrpath
+1529438840823	Marionette	INFO	Listening on port 53637
+1529438841650	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 15292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12912, Chrome_ChildThread[Parent 15292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2096, Chrome_Child[Parent 15292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15292, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2068, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+051: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+JavaScript error: https://articulo.mercadolibre.com.uy/MLU-445601617-sillon-3-cuerpos-con-recliner-sillones-recuero-divino-_JM#c_id=/home/week-deal/element&c_order=0, line 3051: URIError: The script https://http2.mlstatic.com/resources/frontend/web-vip/ui-dist/js/payment-row__medium-0bda4fe971.js is not accessible.
+JavaScript error: https://articulo.mercadolibre.com.uy/MLU-445601617-sillon-3-cuerpos-con-recliner-sillones-recuero-divino-_JM#c_id=/home/week-deal/element&c_order=0, line 3051: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.0.6/categories.js is not accessible.
+JavaScript error: https://articulo.mercadolibre.com.uy/MLU-445601617-sillon-3-cuerpos-con-recliner-sillones-recuero-divino-_JM#c_id=/home/week-deal/element&c_order=0, line 3051: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__commons_desktop.7abb93f1.js is not accessible.
+JavaScript error: https://articulo.mercadolibre.com.uy/MLU-445601617-sillon-3-cuerpos-con-recliner-sillones-recuero-divino-_JM#c_id=/home/week-deal/element&c_order=0, line 3051: URIError: The script https://http2.mlstatic.com/resources/frontend/web-vip/ui-dist/js/core__large-ab95c9d786.js is not accessible.
+JavaScript error: https://articulo.mercadolibre.com.uy/MLU-445601617-sillon-3-cuerpos-con-recliner-sillones-recuero-divino-_JM#c_id=/home/week-deal/element&c_order=0, line 3051: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__plus-web-mobile-menu.74512be1.js is not accessible.
+JavaScript error: https://articulo.mercadolibre.com.uy/MLU-445601617-sillon-3-cuerpos-con-recliner-sillones-recuero-divino-_JM#c_id=/home/week-deal/element&c_order=0, line 3051: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__vendor-tiny-addons.c37e885e.js is not accessible.
+JavaScript error: https://articulo.mercadolibre.com.uy/MLU-445601617-sillon-3-cuerpos-con-recliner-sillones-recuero-divino-_JM#c_id=/home/week-deal/element&c_order=0, line 3051: URIError: The script https://http2.mlstatic.com/resources/frontend/web-vip/ui-dist/js/questions-core__medium-05a21e62e5.js is not accessible.
+JavaScript error: https://articulo.mercadolibre.com.uy/MLU-445601617-sillon-3-cuerpos-con-recliner-sillones-recuero-divino-_JM#c_id=/home/week-deal/element&c_order=0, line 3051: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/messages-plus.80469948.js is not accessible.
+JavaScript error: https://articulo.mercadolibre.com.uy/MLU-445601617-sillon-3-cuerpos-con-recliner-sillones-recuero-divino-_JM#c_id=/home/week-deal/element&c_order=0, line 3051: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__chico_desktop.8a20c382.js is not accessible.
+[Child 18372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18372, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 16688, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r id: telemetry_modules_ping
+[GPU 16372, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ndAndWait] Error: Channel error: cannot send/recv
+
+notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1840
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sages will be lost
+
+[Child 13
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+592, Chrome_ChildThread] WARNING
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/co
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+mmon/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17424, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12112, Chrome_ChildThread] WARNIN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+te to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16036, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 17936, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+c/chrome/common/ipc_channel_win.cc, line 346
+[Child 5108, Chrom[Parent 3324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9464, C[GPU 4188, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t a removal of an actor we didn't know about: server1.conn0.child1/domnode477"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode480"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode482"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode480"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode479"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode482"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode481"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode484"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode486"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode484"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode483"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode486"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode485"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode488"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode490"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode488"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode487"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode490"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode489"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode492"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode494"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode492"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode491"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode494"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode493"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode496"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode498"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode496"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode495"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode498"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode497"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode500"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode502"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode500"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode499"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode502"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode501"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode504"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode506"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode504"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode503"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode506"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode505"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode508"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode510"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode508"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode507"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode510"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode509"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode512"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode514"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode512"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode511"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode514"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode513"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode516"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode518"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode516"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode515"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode518"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode517"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode520"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode522"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode520"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode519"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode522"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode521"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode524"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode526"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode524"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode523"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode526"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode525"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode528"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode530"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode528"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode527"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode530"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode529"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode532"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode534"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode532"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode531"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode534"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode533"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode536"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode538"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode536"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode535"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode538"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode537"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode540"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode542"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode540"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode539"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode542"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode541"
+[Parent 15792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 698[Parent 15792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4020, C[GPU 13568, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
